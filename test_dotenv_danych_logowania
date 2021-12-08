@@ -1,0 +1,7 @@
+USERNAME=podaj@swojmaila
+PASSWORD=podajswojeHaslo
+
+
+
+this is schema to create file .env after install python-dotend inside your project file and copy and paste upper
+your username and password there in env variables which will enable you to send emails from python3
