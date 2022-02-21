@@ -30,3 +30,6 @@ class GmailAdapter:
 
     def __del__(self):
         self.server.close()
+
+        def ssman(self):
+            pass
